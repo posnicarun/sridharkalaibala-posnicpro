@@ -42,5 +42,27 @@ enable செய்ததால் நமக்கு 28% GST தானாக CG
 
 Tax & Tax Description இந்த பகுதி நம் bill receipt இல் default ஆக tax amount நிரப்ப வழிவகை செய்கிறது இதில் கொடுக்கப்படும் tax ஆனது அனைத்து bill receipt லும் apply ஆகும் Tax Description நம் tax ஏதற்காக என்பதை சிறு குறிப்பின் வழியாக தெரிவிக்க உதவுகிறது.
 
+![](.gitbook/assets/confic-futures.png)
+
+இங்கு இருக்கும் பகுதி நமக்கு மேலும் சில மேம்பட்ட சில futures களை கொடுக்கிறது. அதில் இருக்கும் box ஐ click செய்வதன் மூலமாக enable செய்ய இயலும்.
+
+1. Stock Log நம் ஷாப்பில் உள்ள பொருட்களின் இருப்புகளை தெரிவிக்க உதவுகிறது
+2. Track Inventory
+3. Round-Off Totals If 0.05
+
+   இதன் பயன்பாடு நாம் கொடுக்கும் பில் இல் 69.50rs என இருந்தால் தானாகவே அந்த தொகையினை  round off செய்து 70.00rs ஆக மற்றி கொடுக்கும் அமைப்பு இது 
+
+4. Auto Print After Sales இதன் பயன்பாடு நாம் sales முடித்து பில் போடும்பொழுது இந்த அமைப்பு on இல் இருந்தால் sales பில் save ஆனபின் தானாகவே print screen க்கு செல்லும்.
+5. Offline Sales Support. நெட் இல்லாத சமயத்திலும் இந்த பயன்பாட்டினால் நாம் முழுவதுமாக உபயோகம் செய்திட வழிவகை செய்கிறது
+6. Print Customer Detailsபில் print இல் customer details உடன் பிரிண்ட் வேண்டும் என்றால் இந்த option ஐ பயன்படுத்தலாம் .
+7. Display Sales Balance இந்த option வாடிக்கையாளர் bill தொகையை கொடுக்கும் பொழுது அவர் கொடுக்கும் தொகைக்கு மீதம் எவ்வளவும் நாம் கொடுக்கவேண்டும் என்பதை சுலபமாக காமிக்க பயன்படுகிறது
+8. Display Screen உங்கள் computer screen இல் keyboard \(onscreen keyboard \) ஐ use செய்ய இந்த option பயன்படுகிறது.
+9. Auto SMS After Sales இந்த option சேல்ஸ் பில் ஐ SMS அனுப்ப உதவிடும்.
+10. Auto Mail After Sales இந்த option சேல்ஸ் பில் ஐ Mail அனுப்ப உதவிடும்.
+
+![](.gitbook/assets/save-changes-common-setting.png)
+
+common setting இல் நமக்கு தேவையானவற்றை செய்து கடைசியாக save changes click செய்து save செய்யவேண்டும்
+
 
 
