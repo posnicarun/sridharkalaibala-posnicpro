@@ -11,3 +11,7 @@
 * [5.Data Trash](5.data-trash.md)
 * [6.Data Backup](6.data-backup.md)
 
+## Master
+
+* [Master](master/master.md)
+
