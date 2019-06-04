@@ -8,4 +8,6 @@
 * [2.Mail Settings](untitled-2.md)
 * [3.SMS Settings](3.sms-settings.md)
 * [4.common settings](common-settings.md)
+* [5.Data Trash](5.data-trash.md)
+* [6.Data Backup](6.data-backup.md)
 
