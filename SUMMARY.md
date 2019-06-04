@@ -7,5 +7,5 @@
 * [1.Branch info](untitled.md)
 * [2.Mail Settings](untitled-2.md)
 * [3.SMS Settings](3.sms-settings.md)
-* [common settings](common-settings.md)
+* [4.common settings](common-settings.md)
 
