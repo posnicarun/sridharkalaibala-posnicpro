@@ -14,4 +14,6 @@
 ## Master
 
 * [Master](master/master.md)
+* [1.Customer details](master/1.customer-details.md)
+* [Untitled](master/untitled.md)
 
