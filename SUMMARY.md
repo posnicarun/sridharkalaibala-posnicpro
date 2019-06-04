@@ -5,5 +5,7 @@
 * [window dashboard](window-dashboard.md)
 * [config window](untitled-1.md)
 * [1.Branch info](untitled.md)
-* [Untitled](untitled-2.md)
+* [2.Mail Settings](untitled-2.md)
+* [3.SMS Settings](3.sms-settings.md)
+* [common settings](common-settings.md)
 
