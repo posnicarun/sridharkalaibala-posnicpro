@@ -18,4 +18,7 @@
 * [2.Supplier details](master/untitled.md)
 * [3.Category details](master/3.category-details.md)
 * [4.Add Item](master/4.add-item.md)
+* [5.User Details](master/add-user.md)
+* [6.Branch Details](master/6.branch-details.md)
+* [7. Expense Details](master/7.-expense-details.md)
 
