@@ -31,9 +31,31 @@ Supplier details ஐ add button ஐ click செய்த உடன் ஒரு
 
 Supplier details ல் நாம் Supplier ன் **Name, Phone, Email, Address** போன்ற details ஐ கொடுத்து save செய்துகொள்ளலாம்
 
-{% embed url="https://2.Import" %}
+**2. Supplier Import** 
+
+![](../.gitbook/assets/customer-import%20%281%29.png)
+
+நம்மிடம் ஏற்கனவே இருக்கும் supplier details ஐ இந்த Import option வழியாக ஏற்றிக்கொள்ளலாம்.அதற்கு Import Button ஐ click செய்தால் ஒரு pop up உதவுகிறது.
+
+![](../.gitbook/assets/import-supplier-pop-up.png)
+
+![](../.gitbook/assets/supplier-csv-formet.png)
+
+import செய்ய முதலில் popup ல் உள்ள sample csv ஐ click செய்து download ஆகும் csv file ஐ open செய்து பார்க்கவும் .posnic pro supplier csv file format உடன் நீங்கள் import செய்ய விரும்பும் format சரியாக இருக்கவேன்டும் .சரியாக இருக்கிறதா என பார்த்து உங்களுடைய file ஐ choose செய்து import செய்துகொள்ளலாம் .
+
+**3. Supplier Export**
 
 \*\*\*\*
 
-\*\*\*\*
+உங்களிடம் உள்ள supplier details ஐ download செய்ய இந்த export option பயன்படுகிறது
+
+![](../.gitbook/assets/supplier-export.png)
+
+![](../.gitbook/assets/model-export-suppiler.png)
+
+உங்களுக்கு எந்த எந்த supplier details வேண்டுமோ அதனை select செய்து export button ஐ click செய்தால் நாம் எவ்வளவு select செய்து இருக்கிறோம் என்று ஒரு popup தோன்றி உறுதி படுத்தும் .
+
+![](../.gitbook/assets/supplier-export-conformaation.png)
+
+popup ல் download button ஐ click செய்தால் நமக்கு supplier details ஐ download ஆகிறது.
 
