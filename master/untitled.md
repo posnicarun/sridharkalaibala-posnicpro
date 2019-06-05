@@ -31,7 +31,7 @@ Supplier details ஐ add button ஐ click செய்த உடன் ஒரு
 
 Supplier details ல் நாம் Supplier ன் **Name, Phone, Email, Address** போன்ற details ஐ கொடுத்து save செய்துகொள்ளலாம்
 
-**2. Supplier Import** 
+## **2. Import** 
 
 ![](../.gitbook/assets/customer-import%20%281%29.png)
 
