@@ -22,3 +22,7 @@
 * [6.Branch Details](master/6.branch-details.md)
 * [7. Expense Details](master/7.-expense-details.md)
 
+## Sales
+
+* [New Sales](sales/new-sales.md)
+
