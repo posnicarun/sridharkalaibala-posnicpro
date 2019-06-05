@@ -59,3 +59,7 @@ import செய்ய முதலில் popup ல் உள்ள sample cs
 
 popup ல் download button ஐ click செய்தால் நமக்கு supplier details ஐ download ஆகிறது.
 
+**Fillers** 
+
+இங்கே Filters என்பது customer details ல் நாம் பார்த்த filters போலவே தான் ..மீண்டும் அந்த fillers பகுதிக்கு செல்ல [இங்கே click செய்யவும்](1.customer-details.md#filters)
+
