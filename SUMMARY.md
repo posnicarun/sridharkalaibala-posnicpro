@@ -25,4 +25,6 @@
 ## Sales
 
 * [New Sales](sales/new-sales.md)
+* [Customer View](sales/customer-view.md)
+* [Sales History](sales/sales-history.md)
 
