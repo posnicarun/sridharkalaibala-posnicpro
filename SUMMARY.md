@@ -28,3 +28,7 @@
 * [Customer View](sales/customer-view.md)
 * [Sales History](sales/sales-history.md)
 
+## Receiving
+
+* [New Purchase](receiving/new-purchase.md)
+
